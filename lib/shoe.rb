@@ -9,7 +9,7 @@ class Shoe
   
   def cobble()
     self.condition = "new"
-    puts "Your "
+    puts "Your shoe is  "
   
   
 end
