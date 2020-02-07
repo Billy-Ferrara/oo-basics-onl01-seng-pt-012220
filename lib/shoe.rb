@@ -4,5 +4,7 @@ class Shoe
     @brand= brand
   end
   
+  attr
+  
   
 end
